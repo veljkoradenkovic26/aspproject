@@ -1,0 +1,98 @@
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.input.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.output.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorCoreGenerate.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Create.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Delete.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Details.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Edit.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Index.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Create.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Index.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Delete.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Details.g.cshtml.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Edit.g.cshtml.cs
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\Application.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\Domain.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\Application.pdb
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\aspp\WebApp\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CoreCompileInputs.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.input.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.output.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorCoreGenerate.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Create.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Delete.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Details.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Edit.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Comment\Index.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Create.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Delete.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Details.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Edit.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\News\Index.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cs
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+C:\aspp\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb

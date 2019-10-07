@@ -1,0 +1,54 @@
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\aspp\EfCommands\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\aspp\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb

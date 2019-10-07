@@ -1,0 +1,42 @@
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\aspp\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\aspp\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb

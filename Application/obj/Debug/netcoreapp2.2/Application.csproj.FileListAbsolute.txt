@@ -1,0 +1,24 @@
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\aspp\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\aspp\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\aspp\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\aspp\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\aspp\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\aspp\Application\obj\Debug\netcoreapp2.2\Application.pdb

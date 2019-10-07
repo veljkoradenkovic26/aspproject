@@ -1,0 +1,69 @@
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\project\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Application.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Domain.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Application.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\vezbanje\asp\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Application.dll
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Domain.dll
+C:\aspp\Api\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\aspp\Api\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Application.pdb
+C:\aspp\Api\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\aspp\Api\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\aspp\Api\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.csproj.CopyComplete
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\aspp\Api\obj\Debug\netcoreapp2.2\Api.pdb

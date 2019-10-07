@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190605212645_create tables.cs" />
+    <Compile Remove="Migrations\20190605212645_create tables.Designer.cs" />
+    <Compile Remove="Migrations\20190605213033_create tables.cs" />
+    <Compile Remove="Migrations\20190605213033_create tables.Designer.cs" />
+    <Compile Remove="Migrations\20190605213649_create new tables.cs" />
+    <Compile Remove="Migrations\20190605213649_create new tables.Designer.cs" />
+    <Compile Remove="Migrations\20190611161704_changes in db.cs" />
+    <Compile Remove="Migrations\20190611161704_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611162343_changes in db.cs" />
+    <Compile Remove="Migrations\20190611162343_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611162851_changes in db.cs" />
+    <Compile Remove="Migrations\20190611162851_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611163351_changes in db.cs" />
+    <Compile Remove="Migrations\20190611163351_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611163640_changes in db.cs" />
+    <Compile Remove="Migrations\20190611163640_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611164233_changes in db.cs" />
+    <Compile Remove="Migrations\20190611164233_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611164615_create database.cs" />
+    <Compile Remove="Migrations\20190611164615_create database.Designer.cs" />
+    <Compile Remove="Migrations\20190611165553_changes in db.cs" />
+    <Compile Remove="Migrations\20190611165553_changes in db.Designer.cs" />
+    <Compile Remove="Migrations\20190611165817_changs.cs" />
+    <Compile Remove="Migrations\20190611165817_changs.Designer.cs" />
+    <Compile Remove="Migrations\20190611170113_change picture.cs" />
+    <Compile Remove="Migrations\20190611170113_change picture.Designer.cs" />
+    <Compile Remove="Migrations\20190611170408_alter tables.cs" />
+    <Compile Remove="Migrations\20190611170408_alter tables.Designer.cs" />
+    <Compile Remove="Migrations\20190611170719_alter tables news and pictures.cs" />
+    <Compile Remove="Migrations\20190611170719_alter tables news and pictures.Designer.cs" />
+    <Compile Remove="Migrations\20190611171046_alter tables news and pictures.cs" />
+    <Compile Remove="Migrations\20190611171046_alter tables news and pictures.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>
